@@ -1,3 +1,5 @@
+ARCHERY-GAME - OpenGL
+
 ARCHERY game is single player game where the player hits the target. The target is a block with hole in center & the player should hit the target. There are 15 arrows, 10 blocks.
 
 The arrow is made of three parts tip, shaft and nock. The block is covered by an elastic material which breaks when the tip of the arrow hits it exactly at the center. We have arrow count shown on the screen.
